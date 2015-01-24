@@ -1,2 +1,3 @@
-./DATA
-./_pycache_
+DATA
+_pycache_
+*.pyc
